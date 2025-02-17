@@ -1,4 +1,4 @@
-# Global Child ART Insights ![image](https://github.com/user-attachments/assets/868d3eee-0ac4-4965-b896-cac4dd3beb53)
+# Global Child ART Insights <img src="https://github.com/user-attachments/assets/868d3eee-0ac4-4965-b896-cac4dd3beb53" alt="image" width="100">
 
 This interactive Tableau dashboard provides a detailed overview of the implementation status of policies on antiretroviral therapy (ART) pick-up and clinic visits for children established on ART, ART pick-up frequencies, and clinic visit frequencies across countries. The dashboard allows users to explore and analyze how policies are implemented and how ART and clinic visits are managed in different regions and countries. Users can switch between **map** and **bar chart** views to gain insights into policy implementation and child ART-related data.
 
